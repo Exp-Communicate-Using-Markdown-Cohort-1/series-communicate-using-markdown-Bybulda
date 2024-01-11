@@ -5,6 +5,6 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
-- [] Check java.lang
-- [] Destroy java.lang
+- [ ] Check java.lang
+- [ ] Destroy java.lang
 - [x] Read Shildt
